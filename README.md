@@ -38,6 +38,21 @@ pip install "flash-attn==2.5.5" --no-build-isolation
 
 ```
 
+### **[중요]** 
+
+```
+pip install accelerate==1.1.1
+```
+
+accelerate 버전을 위와 같이 안맞추어주면 이후 다음과 같은 에러 메시지를 볼 수 있습니다. 
+
+```
+ValueError: `.to` is not supported for `4-bit` or `8-bit` bitsandbytes models. Please use the model as it is, since the model has already been set to the correct devices and casted to the correct `dtype`.
+```
+
+
+
+
 ## 목차 
 
 - 1. verify_openvla.py 코드 실행해보기 
