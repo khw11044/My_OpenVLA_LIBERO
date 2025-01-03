@@ -3,7 +3,8 @@
 [openvla 공식 git repository](https://github.com/openvla/openvla)
 
 
-![demo_openvla](https://github.com/user-attachments/assets/4ffccea4-8813-4444-a95f-2f4c4af00480)
+![demo-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a4118998-3aa6-4cc6-92cb-d4f838ea7e3a)
+
 
 
 
