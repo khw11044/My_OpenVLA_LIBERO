@@ -11,14 +11,13 @@
 
 ```
 git clone https://github.com/openvla/openvla.git
+
+cd openvla
 ```
 
 ## 환경 설치 
 
 ```
-
-git clone https://github.com/openvla/openvla.git
-cd openvla
 
 conda create -n openvla python=3.10 -y
 conda activate openvla
