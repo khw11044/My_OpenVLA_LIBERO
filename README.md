@@ -23,7 +23,7 @@ cd openvla
 conda create -n openvla python=3.10 -y
 conda activate openvla
 
-conda install pytorch torchvision torchaudio pytorch-cuda=12.4 -c pytorch -c nvidia -y  # UPDATE ME!
+conda install pytorch torchvision pytorch-cuda=12.1 -c pytorch -c nvidia -y  # UPDATE ME!
 
 pip install -e .
 
